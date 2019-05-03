@@ -6,3 +6,7 @@ https://guides.github.com/activities/hello-world/
 
 Understanding the Github flow 
 https://guides.github.com/introduction/flow/
+
+[Optional]
+More detailed courses 
+https://lab.github.com/paths
